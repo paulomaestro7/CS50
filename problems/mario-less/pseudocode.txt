@@ -1,0 +1,6 @@
+User input height
+Height is the type integer from 1 until 8
+Write user input to console
+Repeat this operation if input is diferent from 1 until 8, less than 1 or greater than 8
+if that is true, greater than 1 and less than 8 then
+    Run the function to print the blocks
